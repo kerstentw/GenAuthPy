@@ -1,0 +1,3 @@
+PUB_AUTH_QUERIES = {
+
+}
